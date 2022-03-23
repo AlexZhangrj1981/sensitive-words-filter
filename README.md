@@ -6,6 +6,7 @@
 4. 代码会返回所有搜索到的敏感词汇及过滤结果。
 
 # 附言：开发网站绝对不要采用网易易盾的组件，原因如下：
+![Alt text](introduce/0.jpeg)
 ![Alt text](introduce/1.jpeg)
 ![Alt text](introduce/2.jpeg)
 ![Alt text](introduce/3.jpeg)
